@@ -1,5 +1,5 @@
 # Cobra-installer
-Cobra installer 7.55 for PS3
+Cobra installer 7.55 for Rebug PS3 4.82 CEX
 
 Just a simple installer for Cobra 7.55 based on SDL Library and PSl1ght.
 
